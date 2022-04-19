@@ -1,0 +1,12 @@
+/*   CSS STYLING   */
+
+body
+{
+    background: linear-gradient(to right , rgb(44, 173, 238) ,rgb(59, 243, 236));
+}
+
+h1
+{
+    text-align: center;
+    padding-bottom: 30px;
+}
